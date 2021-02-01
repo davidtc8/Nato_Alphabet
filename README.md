@@ -5,5 +5,6 @@ Spelling alphabets, such as the NATO Phonetic Alphabet, consists of a set of wor
 - Pandas Dataframes
 - Data Manipulation 
 - Dataframes Comprehension
-
+- Dictionary Comprehension
+- Lists Comprehension
 
