@@ -1,5 +1,6 @@
 # Creating our Nato Alphabet Code
 import pandas as pd
+import time
 df = pd.read_csv(r"nato_phonetic_alphabet.csv")
 
 # Keyword Method with iterrows()
@@ -18,3 +19,4 @@ nato_alphabet = [row for word in words_in_name for (index, row) in nato_dict.ite
 #            print(row)
 
 print(nato_alphabet)
+time.sleep(10)
