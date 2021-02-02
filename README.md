@@ -8,3 +8,5 @@ Spelling alphabets, such as the NATO Phonetic Alphabet, consists of a set of wor
 - Dictionary Comprehension
 - Lists Comprehension
 
+# Code Sneak Peek
+![image](image.gif)
